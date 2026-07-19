@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/spidersuite-banner.png" alt="SpiderSuite" width="100%">
+  <img src="img/spider_wifi.png" alt="SpiderSuite" width="100%">
 </p>
 
 # SpiderSuite
