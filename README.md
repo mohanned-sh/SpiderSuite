@@ -126,7 +126,7 @@ SpiderSuite provides four integrated tools:
 
 ---
 
-# Output
+# 📂 Output
 
 Network scan results are automatically saved inside:
 
@@ -145,7 +145,7 @@ spider_scans/
 
 ---
 
-# ⚖️ Disclaimer
+# ⚖️ Disclaimer/License
 
 This project is intended for educational purposes, cybersecurity training, and authorized security assessments only.
 
@@ -154,9 +154,3 @@ Use this software only on systems and wireless networks that you own or for whic
 Unauthorized use of this tool against third-party networks or devices may violate applicable laws and regulations.
 
 The developer assumes no responsibility for any misuse, illegal activity, or damages resulting from the use of this software.
-
----
-
-# License
-
-MIT License
