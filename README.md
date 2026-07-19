@@ -12,7 +12,7 @@ Whether you need to change your MAC address, scan nearby Wi-Fi networks, perform
 
 ---
 
-#✨ Features
+# ✨ Features
 
 - Interactive terminal interface.
 - Animated SpiderSuite banner.
@@ -28,7 +28,7 @@ Whether you need to change your MAC address, scan nearby Wi-Fi networks, perform
 
 ---
 
-#🧰 Included Tools
+# 🧰 Included Tools
 
 ## 1. MAC Address Changer
 
@@ -67,7 +67,7 @@ Whether you need to change your MAC address, scan nearby Wi-Fi networks, perform
 
 ---
 
-#📦 Requirements
+# 📦 Requirements
 
 Before using SpiderSuite, install the required packages.
 
@@ -78,7 +78,7 @@ sudo apt install git python3 aircrack-ng net-tools wireless-tools python3-colora
 
 ---
 
-#🚀 Installation
+# 🚀 Installation
 
 ## Step 1 – Clone Repository
 
@@ -135,7 +135,7 @@ spider_scans/
 └── spider_scan_YYYYMMDD_HHMMSS-01.csv
 ```
 
-#📝 Notes
+# 📝 Notes
 
 - Requires root (sudo) privileges.
 - Requires a wireless adapter that supports Monitor Mode.
@@ -145,7 +145,7 @@ spider_scans/
 
 ---
 
-#⚖️ Disclaimer
+# ⚖️ Disclaimer
 
 This project is intended for educational purposes, cybersecurity training, and authorized security assessments only.
 
